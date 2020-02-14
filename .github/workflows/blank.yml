@@ -1,0 +1,14 @@
+name: wordpress
+
+on: [push]
+
+jobs:web developer
+  build:e commerce website
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: www.sorayabedsheet.com
+    - name: www.unokubedding.com
+    - name: www.sorayaberjayaindonesia.com
+        just building
